@@ -81,7 +81,7 @@ DEFAULTUSER_PASSWORD=your_default_user_password
 ### 4️⃣ Start the development server
 
 ```bash
-npm start
+node app.js
 ```
 Go to 👉 [http://localhost:8080/listings](http://localhost:8080/listings)
 
